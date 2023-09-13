@@ -24,9 +24,7 @@ I've been a full-stack application developer since 2019, working on end-to-end s
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%230x66FF66.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-%2300AA00.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
-In addition to my work as a full-stack developer, I also have an interest in low-level programming, reverse engineering, and so-called "game hacking". For over half a decade, I have honed my skills to become an effective reverse engineer and cheat developer. 
-
-I use disassemblers such as "IDA" to statically analyze binaries, as well as memory viewers/debuggers such as "Cheat Engine" and "Reclass" to reverse engineer software. Using information gained from this, I use a combination of techniques (such as hooking) to create "modifications" for the software, usually in the form of DLLs that are "injected" into a running process in order to gain access to its memory space. Using these techniques, I've written trainers, aimbots, ESPs, and various other types of "mods".
+In addition to my work as a full-stack developer, I also have an interest in low-level programming, reverse engineering, and so-called "game hacking". For over half a decade, I have honed my skills to become an effective reverse engineer and cheat developer. I've written trainers, aimbots, fullblown ESPs, and various other types of "mods".
 
 ## 📈 GitHub Stats:
 - Many of the projects contribute to are private
