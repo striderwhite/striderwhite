@@ -1,6 +1,6 @@
 # Hello, I'm Strider White 👋
 
-![Header Image](https://images.unsplash.com/photo-1665722650889-30b116f8f098?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![Header Image](https://giphy.com/embed/kPVTbiTORIopy)
 
 I'm a passionate full-stack Laravel developer with a love for creating web applications that combine the power of Laravel, Vue.js, and MySQL. 
 
@@ -9,7 +9,9 @@ I also have a deep interest in reverse engineering, as well as low-level program
 ## 🚀 Full Stack Application Development:
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 I've been a full-stack application developer since 2019, working on end-to-end software solutions across various industries. My projects have ranged from simple websites to full-scale web applications, and I've covered the entire spectrum of full-stack development.
