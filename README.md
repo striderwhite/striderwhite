@@ -1,6 +1,6 @@
 # Hello, I'm Strider White 👋
 
-![Header Image](https://giphy.com/embed/kPVTbiTORIopy)
+![Header Image](https://giphy.com/embed/kPVTbiTORIopy.gif)
 
 I'm a passionate full-stack Laravel developer with a love for creating web applications that combine the power of Laravel, Vue.js, and MySQL. 
 
