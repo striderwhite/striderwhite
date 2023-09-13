@@ -29,14 +29,15 @@ In addition to my work as a full-stack developer, I also have an interest in low
 I use disassemblers such as "IDA" to statically analyze binaries, as well as memory viewers/debuggers such as "Cheat Engine" and "Reclass" to reverse engineer software. Using information gained from this, I use a combination of techniques (such as hooking) to create "modifications" for the software, usually in the form of DLLs that are "injected" into a running process in order to gain access to its memory space. Using these techniques, I've written trainers, aimbots, ESPs, and various other types of "mods".
 
 ## 📈 GitHub Stats:
+- Many of the projects contribute to are private
+- Most, if not all of my reverse engineering projects are private
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=striderwhite&show_icons=true&theme=dark)](https://github.com/striderwhite)
 
 ## 🔗 Connect with Me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/striderwhite/)
-- Portfolio: [My 'website'](https://www.striderwhite.com)
-
-🌟 Thank you for visiting my GitHub profile! 🌟
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/striderwhite/)
+- Portfolio: [striderwhite.com](https://www.striderwhite.com)
 
 
