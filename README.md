@@ -6,7 +6,7 @@ I'm a passionate full-stack Laravel developer with a love for creating web appli
 
 I also have a deep interest in reverse engineering, as well as low-level programming with C++ and x86/x64 assembly.
 
-## 🚀 Full Stack Application Development 🚀
+## 🚀 Full Stack Application Development
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -16,7 +16,7 @@ I also have a deep interest in reverse engineering, as well as low-level program
 
 I've been a full-stack application developer since 2019, working on end-to-end software solutions across various industries. My projects have ranged from simple websites to full-scale web applications, and I've covered the entire spectrum of full-stack development.
 
-## 👨‍💻 "Game Hacking" 👨‍💻
+## 👨‍💻 Reverse Engineering
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
