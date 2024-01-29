@@ -20,6 +20,7 @@ I've been a full-stack application developer since 2019, working on end-to-end s
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%234CC61E.svg?style=for-the-badge&logo=assembly&logoColor=white)\
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%230x66FF66.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-%2300AA00.svg?style=for-the-badge&logo=assembly&logoColor=white)
