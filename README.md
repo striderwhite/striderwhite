@@ -1,7 +1,5 @@
 # Strider White
 
-![Header Image](https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif)
-
 ## 🚀 Full Stack Application Development
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
