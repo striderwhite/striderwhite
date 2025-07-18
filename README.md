@@ -8,9 +8,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
 ## 👨‍💻 Reverse Engineering
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -21,12 +18,6 @@
 ![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-%2300AA00.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
 
-
-
-## 📈 Notes
-- Many of the projects contribute to are private
-- Most, if not all of my reverse engineering projects are private
-- This profile was transfered from a prior account and I lost thousands of commit history :(.
 
 ## 🔗 Links
 
